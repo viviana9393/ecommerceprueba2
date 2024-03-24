@@ -12,7 +12,7 @@ class MyDocument extends Document {
         <Head >
         <link
   rel="stylesheet"
-  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons" legacyBehavior
 />
 
           </Head>
